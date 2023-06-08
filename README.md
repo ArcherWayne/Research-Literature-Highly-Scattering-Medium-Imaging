@@ -16,7 +16,7 @@
 | Year 年份  | Journal 期刊  | Authors 作者  | Title 标题  | Reseach Field 研究领域  | Specific Interest 具体方向  | Link 链接  |
 |---|---|---|---|---|---|---|
 | 2016  | Optica  | Eitan Edrei et al.  | Optical imaging through dynamic turbid media using the Fourier-domain shower-curtain effect  | 傅里叶域散斑成像  | 浴帘效应算法  | https://doi.org/10.1364/OPTICA.3.000071  |
-|   |   |   |   |   |   |   |
+| 1978  | OL  | J.R.Fienup  | Reconstruction of an object from the modulus of its Fourier transform  | 傅里叶域重建图像  | 相位提取算法  | https://doi.org/10.1364/OL.3.000027  |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
